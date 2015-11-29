@@ -2,7 +2,7 @@ FeedbackApp
 -----------
 1)Clone this code using below command
 
- command :: git clone <repo url>
+ command :: git clone repo url
  
 2)Create a mysql database using feedback_db.sql file
 
