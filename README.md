@@ -3,9 +3,8 @@ FeedbackApp
 <p align="center">
 <img src="/css/img-readme/feedback-matters.png"/>
 </p>
------------------------------
 Much of the work we do every day depends on having a positive working relationship with our colleagues. Yes, having a good bond with the boss/manager is important, but some of us can go days without speaking to our boss. Ah but co-workers? We talk to them every single day.
-Being able to communicate effectively with our peers help us get our jobs done by answering questions, sharing information, and offering feedback. Not to mention that effective feedback can bring fun and energy to the workplace and can make our team a �great place to work
+Being able to communicate effectively with our peers help us get our jobs done by answering questions, sharing information, and offering feedback. Not to mention that effective feedback can bring fun and energy to the workplace and can make our team a great place to work
 
 ### Peer-to-peer feedback:
 
@@ -60,5 +59,6 @@ Also giving excel import option to manager to download all the comment.The best 
 
 
 
-Thanks
-sreenath886@gmail.com
+  Thanks
+
+  sreenath886@gmail.com
