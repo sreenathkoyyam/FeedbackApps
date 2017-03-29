@@ -56,8 +56,7 @@ Step 3. Once you enter required details submit it by clicking �Now, I send, th
 </p>
 Your feedback has been accepted anonymously and appropriate actions will be taken by your manager.
 Also giving excel import option to manager to download all the comment.The best part is the comments will always anonymous.
-
-
+<br>
 
   Thanks
 
